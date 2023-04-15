@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591875790061",
+    "project_id": "chatapp-718a8",
+    "storage_bucket": "chatapp-718a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591875790061:android:a3330f1e50b28ec5f568e4",
+        "android_client_info": {
+          "package_name": "com.beingbetter.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591875790061-5v6698pehr45n4svr7q4pg9aeq70stnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsZakHIn3ofnWT8omLZKUxcR9IB1sS2tQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591875790061-5v6698pehr45n4svr7q4pg9aeq70stnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
